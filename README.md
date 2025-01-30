@@ -1,0 +1,1 @@
+An application implemented using React Native , which make the user to store their favorite place with location .
